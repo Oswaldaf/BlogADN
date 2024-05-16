@@ -28,3 +28,6 @@
     margin: 0 !important;
     padding: 0 !important;
 }
+.menu-bar .menu-active {
+    font-family: roboto-Black;
+}
